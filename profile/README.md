@@ -25,7 +25,7 @@ Ticket management and support system for Minecraft servers. Full Discord integra
 - https://freewings.citymoon.org/
 
 ### Rymbo (Outdated)
-Discord music bot with support for multiple streaming platforms.
+Discord antiraid, moderation, fun, administration and music bot with support for multiple streaming platforms.
 - https://github.com/CitymoonDynamics/Rymbo
 
 
