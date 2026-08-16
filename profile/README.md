@@ -1,7 +1,7 @@
 # Citymoon Dynamics
-Digital Infrastructure & Web Solutions, we've over 2 years working with Minecraft and Discord solutions to improve the user experience.
-Specialists in Minecraft server optimization, advanced Discord integrations, and high-impact corporate web design.
-Ready to deploy? Contact us!
+### Digital Infrastructure & Web Solutions, we've over 2 years working with Minecraft and Discord solutions to improve the user experience.
+### Specialists in Minecraft server optimization, advanced Discord integrations, and high-impact corporate web design.
+## Ready to deploy? Contact us!
 
 ## Common tools used by our developers:
 ### Languages
@@ -48,8 +48,8 @@ Discord antiraid, moderation, fun, administration and music bot with support for
 ### 🔩 System subcategory:
 
 ### Ulises Licenses (Licensing system for Java)
-License system to protect your Minecraft plugins and software from unauthorized distribution.
-- https://licenses.citymoon.org
+Java and Kotlin license system to protect your Minecraft plugins and software from unauthorized distribution, leaking and more issues! Check our free plan and Pro plan on our Dashboard.
+- https://www.uliseslicenses.xyz
 
 
 ### 🔨 Minecraft Subcategory:
