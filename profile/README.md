@@ -1,5 +1,7 @@
 # Citymoon Dynamics
-Digital Infrastructure & Web Solutions
+Digital Infrastructure & Web Solutions, we've over 2 years working with Minecraft and Discord solutions to improve the user experience.
+Specialists in Minecraft server optimization, advanced Discord integrations, and high-impact corporate web design.
+Ready to deploy? Contact us!
 
 ## Common tools used by our developers:
 ### Languages
